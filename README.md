@@ -27,7 +27,7 @@
 
 - 💬 Pergunta-me sobre **Java, Python, C ou JS**.
 
-- 📫 Como me contactar: **(Coloca o teu email aqui)**
+- 📫 Como me contactar: **m.gezaro97@gmail.com**
 
 - ⚡ Fun fact: **Adoro resolver problemas complexos com soluções simples.**
 
