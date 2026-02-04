@@ -3,7 +3,7 @@
 
 <h1 align="center">Olá 👋, eu sou o Miguel Gézaro</h1>
 <h3 align="center">Estudante de Engenharia Informática @ UÉvora 🇵🇹</h3>
-<p align="center">Sou fascinado por tecnologia e pela forma como o software resolve problemas reais. Tenho vindo a explorar tanto o <b>Desenvolvimento Web</b> como a engenharia de <b>Backend</b> e <b>Bases de Dados</b>.</p>
+<p align="center">Sou fascinado por tecnologia e pela forma como o software resolve problemas reais. Tenho vindo a explorar tanto o <b>FrontEnd</b> como o <b>BackEnd</b> e <b>IA</b>.</p>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=MiguelGezaroPT&label=Profile%20views&color=0e75b6&style=flat" alt="miguel gezaro" /> 
