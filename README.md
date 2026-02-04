@@ -45,14 +45,14 @@
 - **Linguagens de Programação & Web**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,cs,cpp,swift,kotlin,ocaml" />
   </a>
 </p>
 
 - **Backend, Frameworks & Bases de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,jquery,maven" />
+    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,jquery,maven,docker,gradle,nodejs,vue,react,angular" />
   </a>
   <img src="https://img.shields.io/badge/Vaadin-002B36?style=for-the-badge&logo=vaadin&logoColor=00B4F0" height="40" alt="Vaadin" />
 </p>
